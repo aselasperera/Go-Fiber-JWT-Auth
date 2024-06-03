@@ -3,7 +3,7 @@ package handlers
 import (
 	"time"
 
-	"yourmodule/models"
+	"go-fiber-jwt-auth/models"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
