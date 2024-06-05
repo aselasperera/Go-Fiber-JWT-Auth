@@ -9,7 +9,7 @@ This project demonstrates a basic user authentication and authorization system u
 - Basic username and password authentication
 
 ## Project Structure
-
+```
 ├── main.go
 ├── go.mod
 ├── go.sum
@@ -18,7 +18,7 @@ This project demonstrates a basic user authentication and authorization system u
 ├── middleware
 │ ├── jwt.go
 └── README.md
-
+```
 
 ## Getting Started
 
